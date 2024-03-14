@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "1/12/2023"
+    },
+    {
+      "id": "7d4b8f91-cdf8-4017-9aef-19734b01247c",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "2/29/2024"
+    },
+    {
+      "id": "95cedbd1-2ca5-419e-b7be-35bb35ef9fa2",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "9/29/2024"
+    },
+    {
+      "id": "dfa3f1c6-8533-4cac-873c-64479ecec34a",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "2/29/2022"
+    }
+  ]
+}
