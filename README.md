@@ -1,9 +1,31 @@
-# React + Vite
+<h2> Job App</h2>
+This project is a system that allows users to manage their job lists. React.js was used. Redux Toolkit was chosen to provide state management of the application. Axios was used to manage HTTP requests. JSON Server provides a mock API server and was used as a local API server on this project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2> Features</h2>
+Job Listing: Users can list available jobs.
+Add Job: Users can add new job listings.
+Error Management: Errors encountered during API requests are politely handled and displayed to the user.
+Loading Indicator: Provides visual feedback to users as business data is fetched.
 
-Currently, two official plugins are available:
+<h2> Used technologies</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# reduxJobApp
+React </br>
+React DOM </br>
+React Icons </br>
+React Router DOM </br>
+React Redux </br>
+Redux Toolkit </br>
+axios </br>
+JSON Server </br>
+React Toastify </br>
+Sass </br>
+UUID </br>
+
+<h2> Main Components</h2>
+
+App.js: The main component of the application, which sets up routes, handles Redux state management, and makes API requests.
+Header: A reusable component that displays the title of the application.
+JobList: Component that lists available jobs.
+AddJob: A component for adding new job lists.
+
+<h2> Screen Gif</h2>
