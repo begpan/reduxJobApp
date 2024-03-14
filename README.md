@@ -29,3 +29,5 @@ JobList: Component that lists available jobs.
 AddJob: A component for adding new job lists.
 
 <h2> Screen Gif</h2>
+
+![jobapp](https://github.com/begpan/reduxJobApp/assets/145170180/a281b4f9-1bf0-4312-99e2-db26738491a1)
